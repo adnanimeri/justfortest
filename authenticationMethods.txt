@@ -1,0 +1,4 @@
+1) Classic login and password authentication
+2) PKI authenticatio
+3) Face Recognition (FaceID) authentication
+4) Fingerprint authentication
